@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="de">
+<meta charset="utf-8">
+<title>Weiterleitung…</title>
+<script>
+  // Weiterleitung zu ChatGPT mit vorgefülltem Prompt:
+  location.replace("https://chat.openai.com/?q=Finde%20ein%20schnelles%2C%20leckeres%20Rezept%2C%20das%20ich%20mit%20den%20Zutaten%20kochen%20kann%2C%20die%20ich%20im%20Haus%20habe.%0A%0ADiese%20Basiszutaten%20sind%20immer%20vorhanden%3A%0A%E2%80%93%20Gew%C3%BCrze%20%28Standardauswahl%29%0A%E2%80%93%20%C3%96l%2C%20Butter%0A%E2%80%93%20Milch%0A%E2%80%93%20Zwiebeln%2C%20Knoblauch%0A%E2%80%93%20Nudeln%20und%2Foder%20Reis%0A%0ABitte%20stelle%20mir%20zuerst%20zwei%20kurze%20Fragen%20zu%20den%20frischen%20oder%20speziellen%20Zutaten%2C%20die%20ich%20gerade%20da%20haben%20k%C3%B6nnte%20%28z.%20B.%20Gem%C3%BCse%2C%20K%C3%A4se%2C%20Ei%2C%20H%C3%BClsenfr%C3%BCchte%2C%20Fisch%20oder%20Fleisch%29.%0ASobald%20ich%20antworte%2C%20gib%20mir%20ein%20einfaches%20Rezept%20mit%20kurzer%20Zubereitung%20%28unter%2030%20Minuten%29%2C%20Mengenangaben%20und%20einem%20kleinen%20Tipp%20zum%20Verfeinern.%0A%0AAntworte%20in%20einem%20klar%20strukturierten%20Format%3A%0A**Titel**%0A**Zutaten**%0A**Zubereitung**%0A**Tipp**");
+</script>
+<p>Weiterleitung zu ChatGPT… Falls nichts passiert, <a href="https://chat.openai.com/?q=Finde%20ein%20schnelles%2C%20leckeres%20Rezept%2C%20das%20ich%20mit%20den%20Zutaten%20kochen%20kann%2C%20die%20ich%20im%20Haus%20habe.%0A%0ADiese%20Basiszutaten%20sind%20immer%20vorhanden%3A%0A%E2%80%93%20Gew%C3%BCrze%20%28Standardauswahl%29%0A%E2%80%93%20%C3%96l%2C%20Butter%0A%E2%80%93%20Milch%0A%E2%80%93%20Zwiebeln%2C%20Knoblauch%0A%E2%80%93%20Nudeln%20und%2Foder%20Reis%0A%0ABitte%20stelle%20mir%20zuerst%20zwei%20kurze%20Fragen%20zu%20den%20frischen%20oder%20speziellen%20Zutaten%2C%20die%20ich%20gerade%20da%20haben%20k%C3%B6nnte%20%28z.%20B.%20Gem%C3%BCse%2C%20K%C3%A4se%2C%20Ei%2C%20H%C3%BClsenfr%C3%BCchte%2C%20Fisch%20oder%20Fleisch%29.%0ASobald%20ich%20antworte%2C%20gib%20mir%20ein%20einfaches%20Rezept%20mit%20kurzer%20Zubereitung%20%28unter%2030%20Minuten%29%2C%20Mengenangaben%20und%20einem%20kleinen%20Tipp%20zum%20Verfeinern.%0A%0AAntworte%20in%20einem%20klar%20strukturierten%20Format%3A%0A**Titel**%0A**Zutaten**%0A**Zubereitung**%0A**Tipp**">hier tippen</a>.
+</p>
+</html>
